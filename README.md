@@ -3,7 +3,7 @@
 ## Folder Structure (Local Docker + Ngrok)
 
 ```
-youtube-transcripts/
+docker/
 ├── app.py
 ├── requirements.txt
 ├── Dockerfile
